@@ -1,0 +1,14 @@
+{
+  "name": "tzdate",
+  "version": "1.0.0",
+  "description": "Creates a moment-timezone object from a string date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment-timezone": "^0.4.0"
+  }
+}
