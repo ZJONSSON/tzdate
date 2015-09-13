@@ -1,6 +1,6 @@
 {
   "name": "tzdate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a moment-timezone object from a string date",
   "main": "index.js",
   "scripts": {
